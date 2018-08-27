@@ -1,6 +1,7 @@
 public class Hola{
 
                         public static void main (String args []){
-                            system.out.printl("Hola mundo"):
+                     
+                             system.out.printl("Que tranza carnal"):
 }
 }
